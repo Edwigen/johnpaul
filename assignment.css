@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0%;
+}
+body{
+    background-color:palevioletred ;
+    gap: 1px;
+}
+p{
+    margin: 25px;
+      padding: 3%;
+    background-color: purple;
+    text-align: center;
+    border-radius: 8px;
+    color:white ;
+    }
+form{
+    background-color: white;
+    margin: 6%;
+    padding: 25px;
+    border-radius: 6px;
+
+
+}
+input{
+    display: flex;
+    width: 90%;
+    height: 6vh;
+    padding: 4px;
+    text-align:left;
+    }
+    #ad{ 
+        display: flex;
+         background-color:green;
+         border-color: rgba(13, 213, 103, 0.779);
+         text-align: center;
+        text-decoration-style: solid;
+        
+        border-radius: 5px;
+        -webkit-text-fill-color: white ;
+    
+        }
+        .sole{
+            color: red;
+            
+        }
+        small{
+               color: gray;
+            
+        }
+    #ad:hover{
+        background-color: lightgreen;
+        padding: 6px;
+        cursor: pointer;
+    }
